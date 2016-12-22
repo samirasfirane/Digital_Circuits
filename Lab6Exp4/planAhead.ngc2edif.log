@@ -1,0 +1,69 @@
+Release 14.7 - ngc2edif P.20131013 (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design Lab6Exp4.ngc ...
+WARNING:NetListWriters:298 - No output is written to Lab6Exp4.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus XLXI_13/Mcompar_cnt100_cmp_ge0000_lut<11
+   : 1> on block Lab6Exp4 is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus XLXI_13/Mcompar_cnt10k_cmp_ge0000_lut<10
+   : 1> on block Lab6Exp4 is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus XLXI_13/Mcompar_cnt1_cmp_ge0000_lut<12 :
+   1> on block Lab6Exp4 is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus XLXI_13/Mcompar_cnt1k_cmp_ge0000_lut<11
+   : 1> on block Lab6Exp4 is not reconstructed, because there are some missing
+   bus signals.
+  finished :Prep
+Writing EDIF netlist file Lab6Exp4.edif ...
+ngc2edif: Total memory usage is 76916 kilobytes
+
+Release 14.7 - ngc2edif P.20131013 (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design Lab6Exp4.ngc ...
+WARNING:NetListWriters:298 - No output is written to Lab6Exp4.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus XLXI_13/Mcompar_cnt100_cmp_ge0000_lut<11
+   : 1> on block Lab6Exp4 is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus XLXI_13/Mcompar_cnt10k_cmp_ge0000_lut<10
+   : 1> on block Lab6Exp4 is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus XLXI_13/Mcompar_cnt1_cmp_ge0000_lut<12 :
+   1> on block Lab6Exp4 is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus XLXI_13/Mcompar_cnt1k_cmp_ge0000_lut<11
+   : 1> on block Lab6Exp4 is not reconstructed, because there are some missing
+   bus signals.
+  finished :Prep
+Writing EDIF netlist file Lab6Exp4.edif ...
+ngc2edif: Total memory usage is 76724 kilobytes
+
+Release 14.7 - ngc2edif P.20131013 (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+Reading design Lab6Exp4.ngc ...
+WARNING:NetListWriters:298 - No output is written to Lab6Exp4.xncf, ignored.
+Processing design ...
+   Preping design's networks ...
+   Preping design's macros ...
+WARNING:NetListWriters:306 - Signal bus XLXI_13/Mcompar_cnt100_cmp_ge0000_lut<11
+   : 1> on block Lab6Exp4 is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus XLXI_13/Mcompar_cnt10k_cmp_ge0000_lut<10
+   : 1> on block Lab6Exp4 is not reconstructed, because there are some missing
+   bus signals.
+WARNING:NetListWriters:306 - Signal bus XLXI_13/Mcompar_cnt1_cmp_ge0000_lut<12 :
+   1> on block Lab6Exp4 is not reconstructed, because there are some missing bus
+   signals.
+WARNING:NetListWriters:306 - Signal bus XLXI_13/Mcompar_cnt1k_cmp_ge0000_lut<11
+   : 1> on block Lab6Exp4 is not reconstructed, because there are some missing
+   bus signals.
+  finished :Prep
+Writing EDIF netlist file Lab6Exp4.edif ...
+ngc2edif: Total memory usage is 76980 kilobytes
+

@@ -1,0 +1,2 @@
+vhdtdtfi -lib work keyCR4b.vhd -prj Lab6Exp4 -o keyCR4b.spl -module keyCR4b -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e keyCR4b.spl {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp4/keyCR4b.sym} 
