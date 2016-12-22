@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Caleb/Dropbox/Windows/ISE Projects/lab4exp3/lab4exp3_lab4exp3_sch_tb_isim_beh.exe" -prj "C:/Users/Caleb/Dropbox/Windows/ISE Projects/lab4exp3/lab4exp3_lab4exp3_sch_tb_beh.prj" "work.lab4exp3_lab4exp3_sch_tb" "work.glbl" 
