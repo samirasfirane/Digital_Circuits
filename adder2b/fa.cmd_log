@@ -1,0 +1,6 @@
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl fa_drc.vhf -w {C:/Users/Caleb/Dropbox/Windows/ISE Projects/adder2b/fa.sch} 
+sch2sym -intstyle ise -family spartan3e -refsym fa {C:/Users/Caleb/Dropbox/Windows/ISE Projects/adder2b/fa.sch} {C:/Users/Caleb/Dropbox/Windows/ISE Projects/adder2b/fa.sym} 
+sch2sym -intstyle ise -family spartan3e -refsym fa {C:/Users/Caleb/Dropbox/Windows/ISE Projects/adder2b/fa.sch} {C:/Users/Caleb/Dropbox/Windows/ISE Projects/adder2b/fa.sym} 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl fa_drc.vhf -w {C:/Users/Caleb/Dropbox/Windows/ISE Projects/adder2b/fa.sch} 
+sch2sym -intstyle ise -family spartan3e -refsym fa {C:/Users/Caleb/Dropbox/Windows/ISE Projects/adder2b/fa.sch} {C:/Users/Caleb/Dropbox/Windows/ISE Projects/adder2b/fa.sym} 
+sch2sym -intstyle ise -family spartan3e -w -refsym fa {C:/Users/Caleb/Dropbox/Windows/ISE Projects/adder2b/fa.sch} {C:/Users/Caleb/Dropbox/Windows/ISE Projects/adder2b/fa.sym} 

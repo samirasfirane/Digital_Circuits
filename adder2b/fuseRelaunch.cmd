@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "C:/Users/Caleb/Dropbox/Windows/ISE Projects/adder2b/adder2b_adder2b_sch_tb_isim_beh.exe" -prj "C:/Users/Caleb/Dropbox/Windows/ISE Projects/adder2b/adder2b_adder2b_sch_tb_beh.prj" "work.adder2b_adder2b_sch_tb" "work.glbl" 

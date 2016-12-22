@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/diff02e/dff02e_dff02e_sch_tb_isim_beh.exe" -prj "C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/diff02e/dff02e_dff02e_sch_tb_beh.prj" "work.dff02e_dff02e_sch_tb" 
