@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl instrLDA_drc.vhf -w {C:/Users/Samir/Desktop/San Marcos Fall 2016/Physics CS301/Final Project/Common Project/FinalProject1/FinalProject/instrLDA.sch} 
+sch2sym -intstyle ise -family spartan3e -w -refsym instrLDA {C:/Users/Samir/Desktop/San Marcos Fall 2016/Physics CS301/Final Project/Common Project/FinalProject1/FinalProject/instrLDA.sch} {C:/Users/Samir/Desktop/San Marcos Fall 2016/Physics CS301/Final Project/Common Project/FinalProject1/FinalProject/instrLDA.sym} 

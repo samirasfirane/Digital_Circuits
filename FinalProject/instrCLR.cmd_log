@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl instrCLR_drc.vhf -w {C:/Users/Samir/Desktop/San Marcos Fall 2016/Physics CS301/Final Project/Common Project/FinalProject1/FinalProject/instrCLR.sch} 
+sch2sym -intstyle ise -family spartan3e -w -refsym instrCLR {C:/Users/Samir/Desktop/San Marcos Fall 2016/Physics CS301/Final Project/Common Project/FinalProject1/FinalProject/instrCLR.sch} {C:/Users/Samir/Desktop/San Marcos Fall 2016/Physics CS301/Final Project/Common Project/FinalProject1/FinalProject/instrCLR.sym} 

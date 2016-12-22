@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl instrRST_drc.vhf -w C:/Users/Samir/Desktop/FinalProject/instrRST.sch 
+sch2sym -intstyle ise -family spartan3e -w -refsym instrRST C:/Users/Samir/Desktop/FinalProject/instrRST.sch C:/Users/Samir/Desktop/FinalProject/instrRST.sym 

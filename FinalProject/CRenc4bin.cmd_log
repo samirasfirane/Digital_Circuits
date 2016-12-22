@@ -1,0 +1,2 @@
+vhdtdtfi -lib work CRenc4bin.vhd -prj FinalProject -o CRenc4bin.spl -module CRenc4bin -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e -w CRenc4bin.spl {C:/Users/Samir/Desktop/San Marcos Fall 2016/Physics CS301/Final Project/Common Project/FinalProject/CRenc4bin.sym} 

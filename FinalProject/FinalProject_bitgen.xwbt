@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Caleb\Desktop\FinalProject\FinalProject.ncd
+OUTFILE=C:\Users\Caleb\Desktop\FinalProject\FinalProject.bit
+FAMILY=Spartan3E
+PART=xc3s100e-4cp132
+WORKINGDIR=C:\Users\Caleb\Desktop\FinalProject
+LICENSE=WebPack
+USER_INFO=174218040_0_0_110

@@ -1,0 +1,4 @@
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl instrADD_drc.vhf -w {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/FinalProject/instrADD.sch} 
+sch2sym -intstyle ise -family spartan3e -w -refsym instrADD {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/FinalProject/instrADD.sch} {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/FinalProject/instrADD.sym} 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl instrADD_drc.vhf -w {C:/Users/Samir/Desktop/San Marcos Fall 2016/Physics CS301/Final Project/Common Project/Final Project3/FinalProject/instrADD.sch} 
+sch2sym -intstyle ise -family spartan3e -w -refsym instrADD {C:/Users/Samir/Desktop/San Marcos Fall 2016/Physics CS301/Final Project/Common Project/Final Project3/FinalProject/instrADD.sch} {C:/Users/Samir/Desktop/San Marcos Fall 2016/Physics CS301/Final Project/Common Project/Final Project3/FinalProject/instrADD.sym} 
