@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl shiftreg4_drc.vhf -w {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab7Exp6/shiftreg4.sch} 
+sch2sym -intstyle ise -family spartan3e -refsym shiftreg4 {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab7Exp6/shiftreg4.sch} {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab7Exp6/shiftreg4.sym} 

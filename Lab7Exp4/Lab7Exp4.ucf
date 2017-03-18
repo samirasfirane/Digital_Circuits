@@ -1,0 +1,7 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "Qout" LOC = M11;
+NET "CLKin" LOC = P11;
+NET "nQout" LOC = M5;
+NET "Din" LOC = L3;
