@@ -1,0 +1,1 @@
+sch2sym -intstyle ise -family spartan3e -w -refsym BinaryToGrayModule {C:/Users/Samir/Desktop/San Marcos Fall 2016/Physics CS301/Week3/New folder/Lab6Exp7/BinaryToGrayModule.sch} {C:/Users/Samir/Desktop/San Marcos Fall 2016/Physics CS301/Week3/New folder/Lab6Exp7/BinaryToGrayModule.sym} 
