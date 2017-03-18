@@ -1,0 +1,2 @@
+sch2hdl,-intstyle,ise,-family,spartan3e,-flat,-suppress,-vhdl,C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab5Exp5/Lab5Exp5.vhf,-w,C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab5Exp5/Lab5Exp5.sch
+sch2hdl,-intstyle,ise,-family,spartan3e,-flat,-suppress,-vhdl,C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab5Exp5/Lab5LookAheadAdder.vhf,-w,C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab5Exp5/Lab5LookAheadAdder.sch

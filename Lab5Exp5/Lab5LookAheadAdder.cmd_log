@@ -1,0 +1,2 @@
+sch2sym -intstyle ise -family spartan3e -refsym Lab5LookAheadAdder {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab5Exp5/Lab5LookAheadAdder.sch} {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab5Exp5/Lab5LookAheadAdder.sym} 
+sch2sym -intstyle ise -family spartan3e -w -refsym Lab5LookAheadAdder {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab5Exp5/Lab5LookAheadAdder.sch} {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab5Exp5/Lab5LookAheadAdder.sym} 
