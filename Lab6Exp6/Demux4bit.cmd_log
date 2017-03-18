@@ -1,0 +1,7 @@
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl Demux4bit_drc.vhf -w {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Demux4bit.sch} 
+sch2sym -intstyle ise -family spartan3e -refsym Demux4bit {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Demux4bit.sch} {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Demux4bit.sym} 
+sch2sym -intstyle ise -family spartan3e -refsym Demux4bit {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Demux4bit.sch} {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Demux4bit.sym} 
+sch2sym -intstyle ise -family spartan3e -w -refsym Demux4bit {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Demux4bit.sch} {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Demux4bit.sym} 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl Demux4bit_drc.vhf -w {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Demux4bit.sch} 
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl Demux4bit_drc.vhf -w {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Demux4bit.sch} 
+sch2sym -intstyle ise -family spartan3e -w -refsym Demux4bit {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Demux4bit.sch} {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Demux4bit.sym} 

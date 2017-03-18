@@ -1,0 +1,3 @@
+sch2hdl,-intstyle,ise,-family,spartan3e,-flat,-suppress,-vhdl,C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Lab6Exp6.vhf,-w,C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Lab6Exp6.sch
+sch2hdl,-intstyle,ise,-family,spartan3e,-flat,-suppress,-vhdl,C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Demux4bit.vhf,-w,C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Demux4bit.sch
+sch2hdl,-intstyle,ise,-family,spartan3e,-flat,-suppress,-vhdl,C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Demux1to4.vhf,-w,C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Demux1to4.sch

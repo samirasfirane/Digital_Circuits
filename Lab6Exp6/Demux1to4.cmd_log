@@ -1,0 +1,2 @@
+sch2hdl -intstyle ise -family spartan3e -flat -suppress -vhdl Demux1to4_drc.vhf -w {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Demux1to4.sch} 
+sch2sym -intstyle ise -family spartan3e -w -refsym Demux1to4 {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Demux1to4.sch} {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab6Exp6/Demux1to4.sym} 
