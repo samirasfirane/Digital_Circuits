@@ -1,0 +1,1 @@
+sch2sym -intstyle ise -family spartan3e -w -refsym LookaheadGen {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab5Exp4/LookaheadGen.sch} {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab5Exp4/LookaheadGen.sym} 

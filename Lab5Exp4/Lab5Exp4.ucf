@@ -1,0 +1,19 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "A0" LOC = P11;
+NET "A1" LOC = L3;
+NET "A2" LOC = K3;
+NET "A3" LOC = B4;
+NET "B0" LOC = G3;
+NET "B1" LOC = F3;
+NET "B2" LOC = E2;
+NET "B3" LOC = N3;
+NET "S0out" LOC = M5;
+NET "S1out" LOC = M11;
+NET "S2out" LOC = P7;
+NET "S3out" LOC = P6;
+NET "Overflow" LOC = N5;
+NET "Op" LOC = A7;
+NET "IsNeg" LOC = G1;
+

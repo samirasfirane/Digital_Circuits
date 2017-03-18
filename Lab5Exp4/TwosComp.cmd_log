@@ -1,0 +1,4 @@
+sch2sym -intstyle ise -family spartan3e -w -refsym TwosComp {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab5Exp4/TwosComp.sch} {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab5Exp4/TwosComp.sym} 
+sch2sym -intstyle ise -family spartan3e -w -refsym TwosComp {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab5Exp4/TwosComp.sch} {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab5Exp4/TwosComp.sym} 
+sch2sym -intstyle ise -family spartan3e -w -refsym TwosComp {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab5Exp4/TwosComp.sch} {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab5Exp4/TwosComp.sym} 
+sch2sym -intstyle ise -family spartan3e -w -refsym TwosComp {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab5Exp4/TwosComp.sch} {C:/Users/Caleb/Dropbox/Windows/Physics 301/ISE Projects/Lab5Exp4/TwosComp.sym} 
